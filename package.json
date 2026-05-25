@@ -1,0 +1,22 @@
+{
+  "name": "ai-learning",
+  "version": "1.0.0",
+  "description": "My Personal AI learning projects...",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "function-calling": "node function-calling/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:hanoak/AI-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^2.6.0",
+    "dotenv": "^17.4.2"
+  }
+}
