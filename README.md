@@ -1,2 +1,3 @@
 # AI-learning
-Personal AI learning projects.
+
+My Personal AI learning projects...
